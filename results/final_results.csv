@@ -1,0 +1,5 @@
+model,accuracy,macro_f1,trainable_params
+TF-IDF Baseline,0.872403,0.872637,N/A
+Last-layer (11),0.125325,0.081426,7737677
+Layer-wise (9-11),0.586688,0.537916,21913421
+Full Fine-tuning,0.79026,0.769322,109541453
