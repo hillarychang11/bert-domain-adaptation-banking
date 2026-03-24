@@ -52,5 +52,5 @@ Open the notebook in Google Colab:
 1. Install dependencies:
 ```bash
 pip install transformers datasets scikit-learn torch
-
+```
 2. Run all cells
